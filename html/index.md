@@ -1,6 +1,6 @@
 # HTML + CSS
 
-- [HTML + CSS курс. Відеоуроки](https://www.youtube.com/watch?v=Rr9QmVLqoP4&list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1)
+- ####[HTML + CSS курс. Відеоуроки](https://www.youtube.com/watch?v=Rr9QmVLqoP4&list=PLenwk9TUJzJ6ep0oogRRQZHzPMtTGKqF1)
 - [HTML Introduction](https://www.w3schools.com/html/html_intro.asp)
 - [HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS_basics<](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
