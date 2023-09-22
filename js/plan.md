@@ -34,7 +34,7 @@
   - ### > [Умовні Оператори (решта)](https://youtu.be/EhVvSRLkoX4?si=iDn8alsJox3mL-VJ)
       - [Додатково](https://www.w3schools.com/js/js_operators.asp) *
 
-  - ### > [Конвертація типів](https://youtu.be/sDr_3N3VNQU?si=ptIWqhY5qLFTKTvN)
+  - ### > [Конвертація (перетворення) типів](https://youtu.be/sDr_3N3VNQU?si=ptIWqhY5qLFTKTvN)
 
   - ### > [Функції](https://youtu.be/HQea4I9XyuE?si=DxiO8sQQ9lktOx5K)
     - [Додатково](https://www.w3schools.com/js/js_functions.asp) * 
