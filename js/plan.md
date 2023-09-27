@@ -6,7 +6,7 @@
 ```Пункти відмічені * не обов'язкові до перегляду, але корисні до ознайомлення. До них можна повернутись пізніше, якщо виникатимуть питання, чи незрозумілості. На приклад під час виконання завдань```
 
 # Курс
-- ## Початок
+- ## Частина 1 (Початок)
   - ### > [Вступ](https://youtu.be/FrUynyijdSI?si=7kTGLYLqZIIsFbtD)
   - ### > [Змінні](https://youtu.be/lYfQI4rsQSc?si=w90zRsDPcySTzpFK)
     - [Про змінні](https://www.w3schools.com/js/js_variables.asp) *
@@ -44,7 +44,7 @@
 
   - # [Домашнє завдання](https://github.com/Dead-TR/-tch/blob/main/js/homeWork/1.md)
 
-- ## Частина 1
+- ## Частина 2
   - ### > [Масиви](https://youtu.be/SC61eRpwuUg?si=-8vWOrJG1cNiIi_A)
     - [Додатково](https://github.com/Dead-TR/-tch/blob/main/js/plan.md#-%D1%82%D0%B8%D0%BF%D0%B8-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)
   - ### > [Цикли](https://youtu.be/EIbDKmSzOsE?si=OoBXxWspH9lWOZjk)
@@ -53,7 +53,7 @@
     - [for of](https://www.w3schools.com/js/js_loop_forof.asp) *
     - [while](https://www.w3schools.com/js/js_loop_while.asp) *
     - [break / continue](https://www.w3schools.com/js/js_break.asp) *
-    - [Ітерабельні об’єкти] (https://www.w3schools.com/js/js_iterables.asp) *
+    - [Ітерабельні об’єкти](https://www.w3schools.com/js/js_iterables.asp) *
   - ### > [Області Видимості](https://youtu.be/n7vuyPKQUbo?si=bVvW-02h0oV-aSlC)
     - [Додатково](https://www.w3schools.com/js/js_scope.asp) *
   - ### > [Замикання](https://youtu.be/22exzMSyv2s?si=nckgXeEMBuRGClBU)
@@ -66,6 +66,8 @@
     - [Додатково](https://github.com/Dead-TR/-tch/blob/main/js/plan.md#-%D1%82%D0%B8%D0%BF%D0%B8-%D0%B4%D0%B0%D0%BD%D0%B8%D1%85) *
 
   - # [Домашнє завдання](https://github.com/Dead-TR/-tch/blob/main/js/homeWork/2.md)
+
+- ## Частина 3
 
   - ### > []()
   - ### > []()
